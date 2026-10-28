@@ -1,0 +1,23 @@
+order_id,order_date,item_name,qty,unit_price,status
+1001,2026-09-30,Mushroom Soup,2,12.50,completed
+1002,2026-10-01,Mushroom Soup,1,12.50,completed
+1002,2026-10-01,Seafood Paella,2,28.00,completed
+1002,2026-10-01,Caesar Salad,1,16.00,completed
+1003,2026-10-01,Seafood Paella,1,28.00,cancelled
+1004,2026-10-02,seafood paella ,3,28.00,completed
+1004,2026-10-02,Truffle Pasta,2,,completed
+1005,2026-10-03,Caesar Salad,-1,16.00,refunded
+1006,2026-10-03,Truffle Pasta,1,32.00,completed
+1007,2026/10/04,Margherita Pizza,2,24.00,completed
+1008,2026-10-05,Margherita Pizza,1,24.00,completed
+1009,2026-10-08,Caesar Salad,2,16.00,completed
+1010,2026-10-08,Iberico Pork,1,38.00,completed
+order_id,order_date,item_name,qty,unit_price,status
+1011,2026-10-12,Iberico Pork,2,38.00,completed
+1012,2026-10-12,SEAFOOD PAELLA,1,28.00,completed
+1013,2026-10-15,Caesar Salad,3,16.00,cancelled
+1014,2026-10-18,Truffle Pasta,2,32.00,completed
+1015,2026-10-20,Margherita Pizza,3,24.00,completed
+1016,2026-10-25,Iberico Pork,1,38.00,completed
+1017,2026-10-31,Mushroom Soup,4,12.50,completed
+1018,2026-11-01,Mushroom Soup,3,12.50,completed

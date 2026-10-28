@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "item_name": "Seafood Paella",
+      "qty": 6,
+      "revenue": 168.0
+    },
+    {
+      "item_name": "Iberico Pork",
+      "qty": 4,
+      "revenue": 152.0
+    },
+    {
+      "item_name": "Margherita Pizza",
+      "qty": 4,
+      "revenue": 96.0
+    },
+    {
+      "item_name": "Truffle Pasta",
+      "qty": 3,
+      "revenue": 96.0
+    },
+    {
+      "item_name": "Mushroom Soup",
+      "qty": 5,
+      "revenue": 62.5
+    },
+    {
+      "item_name": "Caesar Salad",
+      "qty": 3,
+      "revenue": 48.0
+    }
+  ],
+  "skipped": [
+    {
+      "line": 8,
+      "reason": "missing unit_price"
+    },
+    {
+      "line": 11,
+      "reason": "invalid order_date: '2026/10/04'"
+    }
+  ]
+}
